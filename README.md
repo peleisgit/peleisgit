@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peleisgit&label=Profile%20views&color=400eb4&style=flat" alt="peleisgit" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peleisgit" alt="peleisgit" /></a> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **pawel.lesiak98@gmail.com**
